@@ -1,1 +1,0 @@
-# scholarship-platform-with-smart-contracts
